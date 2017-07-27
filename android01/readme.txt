@@ -1,0 +1,1 @@
+Just paste the contents of MainActivity.java and activitymain.xml in your project
